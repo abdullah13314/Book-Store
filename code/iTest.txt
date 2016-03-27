@@ -1,0 +1,6 @@
+B,N,6,William Vollmann,The Dying Grass,35.99
+G,U,1,Harvey Pekar,American Splendor 4,10.23,Crumb,G
+A,U,2,J.K. Rowling,Harry Potter and the Chamber of Secrets,45.45,Jim Dale,G
+A,U,5,J.K. Rowling,Harry Potter and the Chamber of Secrets,60.45,Jim Dale,E
+A,U,4,J.K. Rowling,Harry Potter and the Chamber of Secrets,20.45,Jim Dale,F
+A,N,1,J.K. Rowling,Harry Potter and the Chamber of Secrets,80.45,Jim Dale

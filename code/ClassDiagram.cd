@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AudioBook">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAAAAAAAAAAAAAAEAAAAAAACAIAgAAAAAAAAAAA=</HashCode>
+      <FileName>AudioBook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookBlock">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIQBAIIQAAYhCEACAQQAACBAAAAAIJBAgAABQAAECQA=</HashCode>
+      <FileName>BookBlock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Book">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAABEBAAAAAAYAAAAAAIAAgAgAhAAAAAAA=</HashCode>
+      <FileName>Book.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookStore">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAIAAAAAQAAOABEAQAAEAYBEAAABFAAAAAAwAA=</HashCode>
+      <FileName>BookStore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BST">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="BST::Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BST.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAABEAAABAAACAEAgBAAAAAAABIQAAAAAAAAAIAA=</HashCode>
+      <FileName>BST.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEADUCEIAhhAEQABAAAAAAIAAAAAEBYAAICAFAEQgA=</HashCode>
+      <FileName>Customer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerManagement">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAAAEAAAAAAAABAAABBAEEAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerManagement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoldCustomer">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIEAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>GoldCustomer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicNovel">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAIgAAAAAAAgAAgCAAAAAAAAAA=</HashCode>
+      <FileName>GraphicNovel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HistoryTransaction">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="Transaction" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="2.388" />
+        <Point X="5.74" Y="2.388" Type="JumpStart" />
+        <Point X="5.573" Y="2.388" Type="JumpEnd" />
+        <Point X="5.51" Y="2.388" />
+        <Point X="5.51" Y="1.375" />
+        <Point X="2.75" Y="1.375" />
+        <Point X="2.75" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAFAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>HistoryTransaction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryManagement">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAABBIkAABAAAACAAACIEAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>InventoryManagement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryTransaction">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAigAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InventoryTransaction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PurchaseTransaction">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAABgAAAAAAEAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>PurchaseTransaction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReturnTransaction">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAEAAAAAAAAgAAAAAAEAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ReturnTransaction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeniorCustomer">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAQ=</HashCode>
+      <FileName>SeniorCustomer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HashChaining">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="HashChaining::Bucket" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HashChaining.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAIIQABACAABAAACAAAABAAEAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HashChaining.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HashQuadCollision">
+    <Position X="15.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCIIAAAACAAAAAACAAAABAAAAAAAAAAAAAAAEAAAgAA=</HashCode>
+      <FileName>HashQuadCollision.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TradeInTransaction">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEQIEAABAAAACgAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TradeInTransaction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transaction">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAAAAAAAAAAAgACAABAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Transaction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

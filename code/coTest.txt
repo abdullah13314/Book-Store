@@ -1,0 +1,13 @@
+I
+P,Jim,Jones,B,N,William Vollmann,The Dying Grass
+P,Jim,Jones,B,N,William Vollmann,The Dying Grass
+P,Jim,Jones,B,N,William Vollmann,The Dying Grass
+P,Jim,Jones,B,N,William Vollmann,The Dying Grass
+P,Jim,Jones,B,N,William Vollmann,The Dying Grass
+P,Jim,Jones,B,N,William Vollmann,The Dying Grass
+R,Jim,Jones,B,N,William Vollmann,The Dying Grass
+P,Jim,Jones,G,U,Harvey Pekar,American Splendor 4,Crumb,G
+T,Jim,Jones,A,J.K. Rowling,Harry Potter and the Chamber of Secrets,60.45,Jim Dale,E
+T,Jim,Jones,G,Harvey Pekar,American Splendor 4,40.45,Crumb,E
+H,Jim,Jones
+I

@@ -1,0 +1,1 @@
+g++ AudioBook.cpp Book.cpp BookStore.cpp BST.cpp Customer.cpp CustomerManagement.cpp GoldCustomer.cpp HashChaining.cpp HashQuadCollision.cpp HistoryTransaction.cpp InventoryManagement.cpp NileBookStore.cpp PurchaseTransaction.cpp ReturnTransaction.cpp SeniorCustomer.cpp TradeInTransaction.cpp Transaction.cpp -o BookStore

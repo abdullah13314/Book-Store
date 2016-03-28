@@ -1,30 +1,21 @@
-Movie Trailer Website
+Book Store App
 
-Movie trailer website is where you can see your favorite movies and watch there trailers, created by Abdullah Syed.
+The program will simulate the activities of a used book store. Customers and inventory will be
+tracked as they buy and trade assorted types of books. Three files will be read into the
+program are arg1, arg2 and arg3.
 
-Requirements
 
-You should have Python 2 installed on your computer.
-If not follow the steps bellow foe windows users:
-Navigate to  https://www.python.org/downloads/release/python-279/
-Download Windows x86 MSI Installer
-Run the file
-Follow the installation wizard
-To confirm that your instalation was successful run IDLE(Python GUI)
 
 Quick Start
 
-Download the movie trailer website file
+Download the code file
 If needed unzip the file
-Right click on the entertainment_centre.py file and click on edit with IDLE
-Add or subract movie instances based on your favorite movies using code 
-Save the code
-Run the module
-
-What is included
-README file
-entainment_center.py
-fresh_tomatoes.py
-media.py
+For Linux
+Run the script StoreBuild on Linux
+Run BookStore and add three files accordingly
+For Visual Studio
+Add the project to Visual studio
+Add files in the debugger location
+Run the code
 
 Created By: Abdullah Syed
